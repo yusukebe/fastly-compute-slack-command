@@ -1,8 +1,10 @@
 # fastly-compute-slack-command
 
-[![Deploy to Fastly](https://deploy.edgecompute.app/button)](https://deploy.edgecompute.app/deploy)
+Slack `echo` command for example of Fastly Compute@Edge.
 
-## How to Deploy
+## Deploy
+
+[![Deploy to Fastly](https://deploy.edgecompute.app/button)](https://deploy.edgecompute.app/deploy)
 
 ## Author
 
