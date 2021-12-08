@@ -2,4 +2,4 @@
 /bin
 /pkg
 env.json
-fastly.toml
+# fastly.toml

@@ -1,0 +1,15 @@
+authors = ["yusuke@kamawada.com"]
+description = "Slack Command exmple for Fastly Compute@Edge"
+language = "javascript"
+manifest_version = 2
+name = "slack-bot"
+service_id = "6KUilz2Hgl5gfs4IljEqjT"
+
+[local_server]
+  [local_server.dictionaries]
+    [local_server.dictionaries.env]
+      file = "env.json"
+      format = "json"
+
+[setup.dictionaries."env".items.key]
+SLACK_TOKEN = "API token for Slack"

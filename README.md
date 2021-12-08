@@ -1,6 +1,6 @@
 # fastly-compute-slack-command
 
-Slack `echo` command for example of Fastly Compute@Edge.
+Slack `echo` Command exmple for Fastly Compute@Edge.
 
 ## Deploy
 
